@@ -54,13 +54,13 @@ body {
     height: 39px;
 
     background: none;
-    border: 2px solid #00ff73;
+    border: 2px solid #000000;
     border-radius: 10px;
 
     font-family: var(--ff-i);
     font-weight: 600;
     font-size: 1rem;
-    color: green;
+    color: black;
 }
 
 .nav-button {
